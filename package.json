@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pigman8857/bin2Hex/issues"
   },
-  "homepage": "https://github.com/pigman8857/bin2Hex#readme"
+  "homepage": "https://github.com/pigman8857/bin2Hex#readme",
+  "dependencies": {
+    "jest": "^26.1.0"
+  }
 }
