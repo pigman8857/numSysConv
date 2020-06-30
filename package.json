@@ -4,7 +4,7 @@
   "description": "Convert binary to Hexadecimal",
   "main": "app.js",
   "scripts": {
-    "test": "npm test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,8 @@
     "url": "https://github.com/pigman8857/bin2Hex/issues"
   },
   "homepage": "https://github.com/pigman8857/bin2Hex#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "jest": "^26.1.0"
   }
 }
