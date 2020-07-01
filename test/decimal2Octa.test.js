@@ -1,5 +1,5 @@
 
-let decimal2Octa = require('../decimal2Octa');
+let decimal2Octa = require('../src/decimal2Octa');
 
 test('convert decimal 16 to octa 20', () => {
     expect(decimal2Octa.convert(16)).toBe("20");

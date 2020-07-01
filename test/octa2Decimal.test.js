@@ -1,4 +1,4 @@
-let octa2Decimal = require('../octa2Decimal');
+let octa2Decimal = require('../src/octa2Decimal');
 
 test('convert Octa 67 to Decimal 55', () => {
     expect(octa2Decimal.convert(67)).toBe(55);

@@ -1,4 +1,4 @@
-let decimal2Hexa = require('../decimal2Hexa');
+let decimal2Hexa = require('../src/decimal2Hexa');
 
 test('convert decimal 116 to hexa 74', () => {
     expect(decimal2Hexa.convert(116)).toBe("74");

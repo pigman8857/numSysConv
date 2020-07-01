@@ -1,5 +1,5 @@
 
-let hexa2Decimal = require('../hexa2Decimal');
+let hexa2Decimal = require('../src/hexa2Decimal');
 
 
 test('convert hexa 67 to decimal 103', () => {
