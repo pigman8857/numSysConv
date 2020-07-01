@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pigman8857/bin2Hex.git"
+    "url": "git+https://github.com/pigman8857/numSysConv.git"
   },
   "author": "OhSva",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pigman8857/bin2Hex/issues"
+    "url": "https://github.com/pigman8857/numSysConv/issues"
   },
-  "homepage": "https://github.com/pigman8857/bin2Hex#readme",
+  "homepage": "https://github.com/pigman8857/numSysConv#readme",
   "dependencies": {},
   "devDependencies": {
     "jest": "^26.1.0"
